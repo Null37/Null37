@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 ![alt text](https://i.imgur.com/N2s8Sv5.png "Logo Title Text 1")
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Null37&count_private=true&show_icons=true&theme=dark)](https://github.com/Null37/github-readme-stats)
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ssamadi)](https://github.com/Null37)
+
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=Null37&count_private=true&show_icons=true&theme=dark)](https://github.com/Null37/github-readme-stats)
