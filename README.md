@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 | Exam_Rank_03 | ... | Exam |
 | libasm | 100 | Assambler |
 | ft_services | ... | Kubernetes |
-| Minishell | 1.. | C project |
+| Minishell | .. | C project |
 | Exam_Rank_04 | ... | Exam |
 | Philosophers |... | C project |
 | Piscine C++ | ... | C++ |
