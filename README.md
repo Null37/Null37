@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 | Philosophers |... | C project |
 | Piscine C++ | ... | C++ |
 | Exam_Rank_05 | ...  | Exam |
-......
+|......        | ... |  ... |
 
 # mean
 |Note           | Are           |
