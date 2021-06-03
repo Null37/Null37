@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 | libasm | 100 | Assambler |
 | ft_services | ... | Kubernetes |
 | pipex | 100 |  UNIX mechanism| 
-| Minishell | .. | creat mini bash |
+| Minishell | .. | create mini bash |
 | Exam_Rank_04 | ... | Exam |
 | Philosophers |... | C project |
 | Piscine C++ | ... | C++ |
