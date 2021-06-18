@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ![alt text](https://i.imgur.com/wrpLSn7.png "Logo Title Text 1")
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ssamadi)](https://github.com/Null37)
 
