@@ -33,8 +33,9 @@ You can click the Preview link to take a look at your changes.
 | ft_services | ... | Kubernetes |
 | pipex | 100 |  UNIX mechanism| 
 | Minishell | 100 | create mini bash |
+| Push_swap | 111 | sorting data on a stack|
 | Exam_Rank_04 | ... | Exam |
-| Philosophers |... | C project |
+| Philosophers |.. | C project |
 | Piscine C++ | ... | C++ |
 | Exam_Rank_05 | ...  | Exam |
 |......        | ... |  ... |
