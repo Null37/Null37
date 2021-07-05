@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 | Minishell | 100 | create mini bash |
 | Push_swap | 111 | sorting data on a stack|
 | Exam_Rank_04 | ... | Exam |
-| Philosophers |.. | C project |
+| Philosophers |100 | C project |
 | Piscine C++ | ... | C++ |
 | Exam_Rank_05 | ...  | Exam |
 |......        | ... |  ... |
