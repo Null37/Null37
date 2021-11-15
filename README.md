@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 | Push_swap | 111 | sorting data on a stack|
 | Exam_Rank_04 | ... | Exam |
 | Philosophers |100 | C project |
-| Piscine C++ | .. | C++ |
+| Piscine C++ | 100 | C++ |
 | Exam_Rank_05 | ...  | Exam |
 |......        | ... |  ... |
 
