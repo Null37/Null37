@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 | Exam_Rank_04 | 100 | Exam |
 | Philosophers |100 | C project |
 | Piscine C++ | 100 | C++ |
-| ft_containers | ...  | OPP |
+| ft_containers | ...  | OOP |
 | Exam_Rank_05  | ..  | Exam |
 |......        | ... |  ... |
 
