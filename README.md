@@ -5,9 +5,9 @@ zerossamadi/zerossamadi is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[my profile in tryhackme](https://tryhackme-badges.s3.amazonaws.com/Null37.png)
+[my profile in tryhackme](https://tryhackme.com/p/Null37)
 
-![alt text](https://i.ibb.co/zbgmsGk/Null37.png "Logo Title Text 1")
+![alt text](https://tryhackme-badges.s3.amazonaws.com/Null37.png "Logo Title Text 1")
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
