@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 | ft_containers | 100  | OOP |
 | webserv | 125 | own HTTP server|
 | Exam_Rank_05  | 100  | Exam |
-| Exam_Rank_06  | ... |  Exam |
+| Exam_Rank_06  | 100 |  Exam |
 | ft_transcendence | .. | web app |
 # mean
 |Note           | Are           |
