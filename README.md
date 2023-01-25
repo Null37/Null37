@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 | webserv | 125 | own HTTP server|
 | Exam_Rank_05  | 100  | Exam |
 | Exam_Rank_06  | 100 |  Exam |
-| ft_transcendence | .. | web app |
+| ft_transcendence | 100 | web app |
 # mean
 |Note           | Are           |
 | ------------- |:-------------:|
