@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 | Minishell | 100 | create mini bash |
 | Push_swap | 111 | sorting data on a stack|
 | Exam_Rank_04 | 100 | Exam |
-| Philosophers |100 | C project |
+| Philosophers |100 | C project talk about fork |
 | Piscine C++ | 100 | C++ |
 | ft_containers | 100  | OOP |
 | webserv | 125 | own HTTP server|
