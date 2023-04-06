@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 [my profile in tryhackme](https://tryhackme.com/p/Null37)
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Null37.png "Logo Title Text 1")
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Null37.png)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
