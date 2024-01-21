@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 | Exam_Rank_05  | 100  | Exam |
 | Exam_Rank_06  | 100 |  Exam |
 | ft_transcendence | 100 | web app |
+| Snow-crash | 125 | Cybersecurity |
 # mean
 |Note           | Are           |
 | ------------- |:-------------:|
